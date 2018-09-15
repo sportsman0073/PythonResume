@@ -1,0 +1,5 @@
+Region	Number of Students
+IN	478
+OH	310
+TX	223
+NY	489

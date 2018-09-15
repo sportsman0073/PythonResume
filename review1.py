@@ -1,0 +1,10 @@
+print("starting value")
+x = int(input())
+print("ending value")
+y = int(input())
+print("Beard-Seconds", end='\t')
+print("Thous")
+for i in range(x, y+5, 5):
+    l = (((i * 5)/(1000))/2.54)
+    print(i, end='\t')
+    print(l)

@@ -1,0 +1,14 @@
+sid=s2500 | cid=CS180 | grade=71
+sid=s2507 | cid=CS177 | grade=3
+sid=s2502 | cid=CS177 | grade=30
+sid=s2503 | cid=CS180 | grade=78
+sid=s2504 | cid=CS180 | grade=23
+sid=s2501 | cid=CS180 | grade=54
+sid=s2506 | cid=CS177 | grade=33
+sid=s2505 | cid=CS177 | grade=28
+sid=s2503 | cid=CS177 | grade=78
+sid=s2508 | cid=CS177 | grade=9
+sid=s2501 | cid=CS177 | grade=54
+sid=s2509 | cid=CS177 | grade=25
+sid=s2509 | cid=CS180 | grade=25
+sid=s2510 | cid=CS177 | grade=46
